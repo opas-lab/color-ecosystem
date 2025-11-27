@@ -1,0 +1,29 @@
+[submodule "color-gateway-service"]
+	path = color-gateway-service
+	url = https://github.com/opas-lab/color-gateway-service.git
+	branch = main
+
+[submodule "color-store-service"]
+	path = color-store-service
+	url = https://github.com/opas-lab/color-store-service.git
+	branch = main
+
+[submodule "color-social-service"]
+	path = color-social-service
+	url = https://github.com/opas-lab/color-social-service.git
+	branch = main
+
+[submodule "color-assistant-service"]
+	path = color-assistant-service
+	url = https://github.com/opas-lab/color-assistant-service.git
+	branch = main
+
+[submodule "color-store-portal"]
+	path = color-store-portal
+	url = https://github.com/opas-lab/color-store-portal.git
+	branch = main
+
+[submodule "color-store-android"]
+	path = color-store-android
+	url = https://github.com/opas-lab/color-store-android.git
+	branch = main
