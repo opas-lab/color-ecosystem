@@ -1,10 +1,11 @@
 # ColorEcosystem
+![Reminder](https://img.shields.io/badge/-(To%20download%20source%20code%20referred%20in%20.gitmodules%2C%20please%20see%20the%20below%20%60Quick%20Start%60)-red)
+
 [![Python: 3.13](https://img.shields.io/badge/Python-3.13-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Code: Github](https://img.shields.io/badge/Code-Github-blue?logo=github)](https://github.com/opas-lab/color-ecosystem)
 [![Paper: ColorEcosystem](https://img.shields.io/badge/Paper-Arxiv-green?logo=arxiv)](http://arxiv.org/abs/2510.21566)
 
-<p style="color:red"><b>(To download source code, please see the below `Quick Start`)</b></p>
 
 <h2 align="center">ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in massive-agent Ecosystem</h2>
 
