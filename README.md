@@ -4,6 +4,7 @@
 [![Code: Github](https://img.shields.io/badge/Code-Github-blue?logo=github)](https://github.com/opas-lab/color-ecosystem)
 [![Paper: ColorEcosystem](https://img.shields.io/badge/Paper-Arxiv-green?logo=arxiv)](http://arxiv.org/abs/2510.21566)
 
+<p style="color:red"><b>(To download source code, please see the below `Quick Start`)</b></p>
 
 <h2 align="center">ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in massive-agent Ecosystem</h2>
 
@@ -53,7 +54,7 @@ We provided the prebuilt APK of Android client app, so you don't need to build i
 
 You may clone all repositories at the first time with:
 ```
-git submodule update --init --recursive
+git clone --recursive https://github.com/opas-lab/color-ecosystem.git
 ```
 
 later you may update all repositories with:
@@ -88,7 +89,7 @@ This project is licensed under the MIT License, which permits free use and modif
 If you have used this project in your research or work, please cite:
 ```
 @article{wu2025colorecosystem,
-  title={ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in massive agent Ecosystem},
+  title={ColorEcosystem: Powering Personalized, Standardized, and Trustworthy Agentic Service in massive-agent Ecosystem},
   author={Wu, Fangwen and Wu, Zheng and Wang, Jihong and Chen, Yunku and Pei, Ruiguang and Huang, Heyuan and Liao, Xin and Lou, Xingyu and Deng, Huarong and Fu, Zhihui and Liu, Weiwen and Zhang, Zhuosheng and Zhang, Weinan and Wang, Jun},
   journal={arXiv preprint arXiv:2510.21566},
   year={2025},
